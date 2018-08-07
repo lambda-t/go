@@ -1,0 +1,7 @@
+[bccbtc]0
+{EventType:depthUpdate,EvenTime:1529778786574,Symbol:BCCBTC,FirstUpdateId:98179628,FinalUpdateId:98179629,Bids:[],Asks:[[0.12322900 0.00000000 []] [0.12343300 0.68700000 []]]
+{EventType:depthUpdate,EvenTime:1529778787574,Symbol:BCCBTC,FirstUpdateId:98179630,FinalUpdateId:98179630,Bids:[],Asks:[[0.12322700 4.29100000 []]]
+{EventType:depthUpdate,EvenTime:1529778788574,Symbol:BCCBTC,FirstUpdateId:98179631,FinalUpdateId:98179631,Bids:[],Asks:[[0.12322800 0.00000000 []]]
+{EventType:depthUpdate,EvenTime:1529778789574,Symbol:BCCBTC,FirstUpdateId:98179632,FinalUpdateId:98179633,Bids:[[0.12228600 0.00000000 []]],Asks:[[0.12322600 0.15400000 []]]
+{EventType:depthUpdate,EvenTime:1529778790574,Symbol:BCCBTC,FirstUpdateId:98179634,FinalUpdateId:98179637,Bids:[[0.12289200 0.06000000 []] [0.12229400 0.65300000 []]],Asks:[[0.12386800 0.60000000 []] [0.12388000 0.00000000 []]]
+{EventType:depthUpdate,EvenTime:1529778791575,Symbol:BCCBTC,FirstUpdateId:98179638,FinalUpdateId:98179638,Bids:[],Asks:[[0.12322700 0.00000000 []]]

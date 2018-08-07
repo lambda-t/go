@@ -1,0 +1,8 @@
+[bnbeth]0
+{EventType:depthUpdate,EvenTime:1529780762931,Symbol:BNBETH,FirstUpdateId:54238207,FinalUpdateId:54238207,Bids:[[0.03286300 0.00000000 []]],Asks:[]
+{EventType:depthUpdate,EvenTime:1529780763932,Symbol:BNBETH,FirstUpdateId:54238208,FinalUpdateId:54238209,Bids:[[0.03288700 35.35000000 []]],Asks:[[0.03294600 15.44000000 []]]
+{EventType:depthUpdate,EvenTime:1529780764932,Symbol:BNBETH,FirstUpdateId:54238210,FinalUpdateId:54238211,Bids:[],Asks:[[0.03294600 13.84000000 []] [0.03297900 0.00000000 []]]
+{EventType:depthUpdate,EvenTime:1529780765933,Symbol:BNBETH,FirstUpdateId:54238212,FinalUpdateId:54238212,Bids:[],Asks:[[0.03294600 0.00000000 []]]
+{EventType:depthUpdate,EvenTime:1529780767932,Symbol:BNBETH,FirstUpdateId:54238213,FinalUpdateId:54238214,Bids:[],Asks:[[0.03298300 0.00000000 []] [0.03300400 6.68000000 []]]
+{EventType:depthUpdate,EvenTime:1529780768932,Symbol:BNBETH,FirstUpdateId:54238215,FinalUpdateId:54238217,Bids:[[0.03287700 0.00000000 []]],Asks:[[0.03306900 163.72000000 []] [0.03317000 5.22000000 []]]
+{EventType:depthUpdate,EvenTime:1529780769932,Symbol:BNBETH,FirstUpdateId:54238218,FinalUpdateId:54238219,Bids:[],Asks:[[0.03296400 6.45000000 []] [0.03304900 6.09000000 []]]

@@ -1,0 +1,10 @@
+[iotaeth]0
+{EventType:depthUpdate,EvenTime:1529780928954,Symbol:IOTAETH,FirstUpdateId:46821001,FinalUpdateId:46821002,Bids:[[0.00214875 0.00000000 []] [0.00214843 0.00000000 []]],Asks:[]
+{EventType:depthUpdate,EvenTime:1529780929953,Symbol:IOTAETH,FirstUpdateId:46821003,FinalUpdateId:46821003,Bids:[[0.00214878 34.00000000 []]],Asks:[]
+{EventType:depthUpdate,EvenTime:1529780930953,Symbol:IOTAETH,FirstUpdateId:46821004,FinalUpdateId:46821008,Bids:[[0.00214879 339.00000000 []] [0.00214877 0.00000000 []] [0.00214856 0.00000000 []] [0.00211340 472.00000000 []] [0.00211313 0.00000000 []]],Asks:[]
+{EventType:depthUpdate,EvenTime:1529780931953,Symbol:IOTAETH,FirstUpdateId:46821009,FinalUpdateId:46821009,Bids:[[0.00214878 0.00000000 []]],Asks:[]
+{EventType:depthUpdate,EvenTime:1529780932953,Symbol:IOTAETH,FirstUpdateId:46821010,FinalUpdateId:46821013,Bids:[[0.00215010 285.00000000 []] [0.00214884 471.00000000 []] [0.00214882 466.00000000 []] [0.00214880 34.00000000 []]],Asks:[]
+{EventType:depthUpdate,EvenTime:1529780933954,Symbol:IOTAETH,FirstUpdateId:46821014,FinalUpdateId:46821015,Bids:[[0.00214882 0.00000000 []] [0.00214880 0.00000000 []]],Asks:[]
+{EventType:depthUpdate,EvenTime:1529780934954,Symbol:IOTAETH,FirstUpdateId:46821016,FinalUpdateId:46821016,Bids:[[0.00215011 34.00000000 []]],Asks:[]
+{EventType:depthUpdate,EvenTime:1529780935954,Symbol:IOTAETH,FirstUpdateId:46821017,FinalUpdateId:46821018,Bids:[],Asks:[[0.00215580 0.00000000 []] [0.00215760 86.00000000 []]]
+{EventType:depthUpdate,EvenTime:1529780936954,Symbol:IOTAETH,FirstUpdateId:46821019,FinalUpdateId:46821022,Bids:[[0.00214132 150.00000000 []] [0.00213704 0.00000000 []]],Asks:[[0.00215579 0.00000000 []] [0.00215591 10.00000000 []]]

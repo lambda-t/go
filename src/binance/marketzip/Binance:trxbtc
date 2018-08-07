@@ -1,0 +1,10 @@
+[trxbtc]0
+{EventType:depthUpdate,EvenTime:1529778525469,Symbol:TRXBTC,FirstUpdateId:87058907,FinalUpdateId:87058907,Bids:[[0.00000706 534273.00000000 []]],Asks:[]
+{EventType:depthUpdate,EvenTime:1529778526469,Symbol:TRXBTC,FirstUpdateId:87058908,FinalUpdateId:87058908,Bids:[],Asks:[[0.00000731 137543.00000000 []]]
+{EventType:depthUpdate,EvenTime:1529778527469,Symbol:TRXBTC,FirstUpdateId:87058909,FinalUpdateId:87058912,Bids:[[0.00000711 838374.00000000 []]],Asks:[[0.00000717 748200.00000000 []] [0.00000929 55857.00000000 []]]
+{EventType:depthUpdate,EvenTime:1529778528469,Symbol:TRXBTC,FirstUpdateId:87058913,FinalUpdateId:87058916,Bids:[[0.00000705 1715689.00000000 []] [0.00000703 578877.00000000 []]],Asks:[[0.00000716 1244822.00000000 []]]
+{EventType:depthUpdate,EvenTime:1529778531468,Symbol:TRXBTC,FirstUpdateId:87058917,FinalUpdateId:87058917,Bids:[[0.00000703 579806.00000000 []]],Asks:[]
+{EventType:depthUpdate,EvenTime:1529778532469,Symbol:TRXBTC,FirstUpdateId:87058918,FinalUpdateId:87058919,Bids:[[0.00000708 584733.00000000 []] [0.00000707 1180272.00000000 []]],Asks:[]
+{EventType:depthUpdate,EvenTime:1529778533468,Symbol:TRXBTC,FirstUpdateId:87058920,FinalUpdateId:87058920,Bids:[],Asks:[[0.00000722 109446.00000000 []]]
+{EventType:depthUpdate,EvenTime:1529778534469,Symbol:TRXBTC,FirstUpdateId:87058921,FinalUpdateId:87058922,Bids:[[0.00000701 736500.00000000 []]],Asks:[[0.00000722 109296.00000000 []]]
+{EventType:depthUpdate,EvenTime:1529778536469,Symbol:TRXBTC,FirstUpdateId:87058923,FinalUpdateId:87058923,Bids:[[0.00000713 15675.00000000 []]],Asks:[]

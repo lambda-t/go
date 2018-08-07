@@ -1,0 +1,12 @@
+[xrpeth]0
+{EventType:depthUpdate,EvenTime:1529780903936,Symbol:XRPETH,FirstUpdateId:57917349,FinalUpdateId:57917350,Bids:[],Asks:[[0.00102732 1300.00000000 []] [0.00102735 0.00000000 []]]
+{EventType:depthUpdate,EvenTime:1529780904937,Symbol:XRPETH,FirstUpdateId:57917351,FinalUpdateId:57917353,Bids:[[0.00102459 134.00000000 []] [0.00102458 0.00000000 []]],Asks:[[0.00110316 3378.00000000 []]]
+{EventType:depthUpdate,EvenTime:1529780905937,Symbol:XRPETH,FirstUpdateId:57917354,FinalUpdateId:57917356,Bids:[[0.00102461 201.00000000 []]],Asks:[[0.00102731 1074.00000000 []] [0.00102733 0.00000000 []]]
+{EventType:depthUpdate,EvenTime:1529780907936,Symbol:XRPETH,FirstUpdateId:57917357,FinalUpdateId:57917373,Bids:[],Asks:[[0.00107770 0.00000000 []] [0.00112289 1956.00000000 []]]
+{EventType:depthUpdate,EvenTime:1529780908937,Symbol:XRPETH,FirstUpdateId:57917374,FinalUpdateId:57917375,Bids:[[0.00102462 134.00000000 []] [0.00102459 0.00000000 []]],Asks:[]
+{EventType:depthUpdate,EvenTime:1529780909937,Symbol:XRPETH,FirstUpdateId:57917376,FinalUpdateId:57917378,Bids:[[0.00102464 201.00000000 []] [0.00102462 240.00000000 []] [0.00102461 0.00000000 []]],Asks:[]
+{EventType:depthUpdate,EvenTime:1529780910937,Symbol:XRPETH,FirstUpdateId:57917379,FinalUpdateId:57917380,Bids:[[0.00102257 299.00000000 []]],Asks:[[0.00109960 4178.00000000 []]]
+{EventType:depthUpdate,EvenTime:1529780911937,Symbol:XRPETH,FirstUpdateId:57917381,FinalUpdateId:57917382,Bids:[],Asks:[[0.00102731 0.00000000 []] [0.00102789 1074.00000000 []]]
+{EventType:depthUpdate,EvenTime:1529780912937,Symbol:XRPETH,FirstUpdateId:57917383,FinalUpdateId:57917383,Bids:[[0.00102464 0.00000000 []]],Asks:[]
+{EventType:depthUpdate,EvenTime:1529780913937,Symbol:XRPETH,FirstUpdateId:57917384,FinalUpdateId:57917385,Bids:[[0.00102462 0.00000000 []]],Asks:[]
+{EventType:depthUpdate,EvenTime:1529780914940,Symbol:XRPETH,FirstUpdateId:57917386,FinalUpdateId:57917386,Bids:[],Asks:[[0.00111448 4222.00000000 []]]
